@@ -1,3 +1,10 @@
+/*
+Greg Volpe
+Dr. Ganchev
+Project 3
+CS 355 - Programming Languages
+*/
+
 #include <string>
 #include <vector>
 #include <iostream>

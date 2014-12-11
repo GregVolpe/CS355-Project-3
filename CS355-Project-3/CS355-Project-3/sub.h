@@ -1,3 +1,10 @@
+/*
+Greg Volpe
+Dr. Ganchev
+Project 3
+CS 355 - Programming Languages
+*/
+
 #pragma once
 
 #include <vector>
